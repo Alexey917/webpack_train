@@ -1,0 +1,1 @@
+(()=>{"use strict";function e(e,t){return e+t}document.querySelector(".header").textContent=e(2,8),console.log(e(2,8))})();
